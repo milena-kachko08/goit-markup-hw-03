@@ -187,8 +187,8 @@ border-bottom: 1px solid #e7e9fc;
     gap: 24px;
 }
 
-.list-item-header {
-    width: calc((100% - 72px)/4);
+.item-studio {
+ width: calc((100% - 72px)/4);
 }
 
 .item-subtitle-studio {
@@ -217,6 +217,7 @@ border-bottom: 1px solid #e7e9fc;
     color: #2e2f42;
     text-transform: capitalize;
     margin-bottom: 72px;
+    margin-bottom: 8px;
 }
 
 .section-our-team {
@@ -270,7 +271,7 @@ border-bottom: 1px solid #e7e9fc;
 
 .portfolio-item {
     background-color: #FFFFFF;
-    width: calc((100% -48px) / 3);
+    width: calc ((100% - 48px) / 3);
 }
 
 .portfolio-item-subtitle {
